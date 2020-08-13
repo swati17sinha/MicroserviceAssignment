@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fFSz1rKsHubaAjgqoBv9r9P0izWMkvqyuN9zj/rDiS7mvFKfcaBLVPTBu7nn+rpKZrx4yerdOY61/z+pr1IZwQ==",
+  "success": true,
+  "projectFilePath": "D:\\NAGP-Training\\Microservices\\Assignment-New\\OrdersAPI\\OrdersAPI\\OrdersAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\swatisinha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
